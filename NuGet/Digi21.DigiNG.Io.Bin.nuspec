@@ -10,6 +10,7 @@
     <license type="expression">MIT</license>
     <icon>IconoDigi21.png</icon>
     <projectUrl>http://digi3d.net/</projectUrl>
+    <repository type="git" url="https://github.com/digi21/Digi21.DigiNG.IO.Bin.git" branch="master" commit="bb1669684eaa7b2e2e0103c7d0f3a7f3d9b25e6e"/>
     <description>This package contains runtime assemblies for reading/creating Digi3D.NET binary files (*.BIN) on computers with Digi3D.NET installed.
 
 A Digi3D.NET license is required to run applications that use the assemblies published by this package. Rent a license at https://www.digi21.net/Tienda/Alquiler or buy a license at https://www.digi21.net/Tienda/Compra</description>
