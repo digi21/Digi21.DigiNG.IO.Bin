@@ -4,6 +4,7 @@ using Digi21.Math;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Digi21.Tasks;
 
 namespace Digi21.DigiNG.IO.Bin
 {
