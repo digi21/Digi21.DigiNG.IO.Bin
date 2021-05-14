@@ -54,15 +54,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Digi21.DigiNG">
-      <Version>21.0.0</Version>
-    </PackageReference>
+    <None Include="certificadoSxsDigi21.pfx" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Digi21.DigiNG.Plugin">
       <Version>21.0.0</Version>
     </PackageReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="certificadoSxsDigi21.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
