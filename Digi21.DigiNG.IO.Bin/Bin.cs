@@ -37,6 +37,7 @@ namespace Digi21.DigiNG.IO.Bin
         public Point3D GlobalOrigin => throw null;
         public int Decimals => throw null;
         public string Wkt => throw null;
+        public bool Visible { get => throw null; set => throw null; }
         public IDictionary<string, int> DatabaseTables => throw null;
         public bool CanWrite => throw null;
         public bool CanRead => throw null;
