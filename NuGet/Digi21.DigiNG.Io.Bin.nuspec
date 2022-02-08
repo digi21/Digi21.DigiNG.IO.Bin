@@ -22,7 +22,6 @@ A Digi3D.NET license is required to run applications that use the assemblies pub
     <dependencies>
       <group targetFramework=".NETFramework4.6">
         <dependency id="Digi21.DigiNG" version="22.2.0" />
-        <dependency id="Digi21.DigiNG.Plugin" version="22.2.0" />
       </group>
     </dependencies>
   </metadata>

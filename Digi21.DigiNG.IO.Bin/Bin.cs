@@ -1,5 +1,4 @@
-﻿using Digi21.Digi3D;
-using Digi21.DigiNG.Entities;
+﻿using Digi21.DigiNG.Entities;
 using Digi21.Math;
 using System;
 using System.Collections;
