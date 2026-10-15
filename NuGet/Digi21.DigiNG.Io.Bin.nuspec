@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
 	<metadata>
 		<id>Digi21.DigiNG.IO.Bin</id>
-		<version>26.0.0</version>
+		<version>26.0.1</version>
 		<title>Digi21.DigiNG.IO.Bin</title>
 		<authors>José Ángel Martínez Torres</authors>
 		<owners></owners>
@@ -20,7 +20,7 @@ A Digi3D.AI license is required to run applications that use the assemblies publ
 		<repository type="git" url="https://github.com/digi21/Digi21.DigiNG.IO.Bin.git" />
 		<dependencies>
 			<group targetFramework="net10.0">
-				<dependency id="Digi21.DigiNG" version="26.0.0" />
+				<dependency id="Digi21.DigiNG" version="26.0.1" />
 			</group>
 		</dependencies>
 	</metadata>
