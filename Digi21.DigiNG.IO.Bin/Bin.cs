@@ -31,6 +31,8 @@ namespace Digi21.DigiNG.IO.Bin
         public void Delete(Entity entity) => throw null;
         public void Delete(IEnumerable<Entity> entities) => throw null;
         public void Dispose() => throw null;
+        protected virtual void Dispose(bool A_0) => throw null;
+        ~Bin() => throw null;
         public IEnumerator<Entity> GetEnumerator() => throw null;
         IEnumerator IEnumerable.GetEnumerator() => throw null;
         public Point3D GlobalOrigin => throw null;
