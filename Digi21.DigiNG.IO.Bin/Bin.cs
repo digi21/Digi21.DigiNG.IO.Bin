@@ -35,6 +35,7 @@ namespace Digi21.DigiNG.IO.Bin
         ~Bin() => throw null;
         public IEnumerator<Entity> GetEnumerator() => throw null;
         IEnumerator IEnumerable.GetEnumerator() => throw null;
+        public IEnumerator GetEnumerator2() => throw null;
         public Point3D GlobalOrigin => throw null;
         public int Decimals => throw null;
         public string Wkt => throw null;
